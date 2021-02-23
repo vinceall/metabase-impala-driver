@@ -37,8 +37,6 @@
   ;; !!                                   AND ADD A COMMENT EXPLAINING THEIR PURPOSE                                  !!
   ;; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-  :repositories [["center" {:url "http://maven.iwellmass.com:8081/repository/maven-private" :username "admin":password "zjhz.admin!"}]]
-
   :dependencies
   [[org.clojure/clojure "1.10.1"]
    [org.clojure/core.async "0.4.500"
